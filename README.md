@@ -75,7 +75,7 @@ make deploy
 
 ## Testing
 
-We talk about 4 test tiers in the video.
+We talk about 4 test
 
 1. Unit
 2. Integration
